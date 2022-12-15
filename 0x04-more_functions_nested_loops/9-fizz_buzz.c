@@ -22,13 +22,13 @@ int main(void)
 		}
 		else if (n % 5 == 0)
 		{
-			prinf("Buzz");
+			printf("Buzz");
 		}
 		else
 		{
 			printf("%d", n);
 		}
 	}
-	printf('\n');
+	printf("\n");
 	return (0);
 }
