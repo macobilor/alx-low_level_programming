@@ -1,12 +1,12 @@
-#include "main.h"
+nclude "main.h"
 #include <string.h>
 
 /**
  * _memset -> memory
- * @s: string
- * @b: char
- * @n: an integer
- * Return: string
+ *  @s: string
+ *  @b: char
+ *  @n: an integer
+ *  Return: string
  */
 char *_memset(char *s, char b, unsigned int n)
 {
